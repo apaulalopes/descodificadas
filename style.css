@@ -1,0 +1,31 @@
+*{
+    margin: -2px;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    display: inline-block;
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 200px;
+    height: 200px;
+}
+section{
+    width: 1200px;
+    height: 1000px;
+}
+.vermelho{
+    background-color: red;
+}
+.azul{
+    background-color: #00B0F0;
+}
+.verde{
+    background-color: #00B050;
+}
+.amarelo{
+    background-color: yellow;
+}
+#borda{
+    border: 2px solid black;
+}
