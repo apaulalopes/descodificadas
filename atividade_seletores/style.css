@@ -13,6 +13,7 @@ div {
 section{
     width: 1200px;
     height: 1000px;
+    margin: 40px auto;
 }
 .vermelho{
     background-color: red;
