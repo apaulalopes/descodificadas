@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    align-content: center;
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: blueviolet;
+    outline: 20px double rgb(233, 50, 141);
+}
+.florzinha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    background-image: url(rosa-e-flores-roxas.png);
+    box-shadow: 0px 2px 10px 10px indigo inset;
+    margin: auto;
+}
+h4{
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    color: yellow;
+    text-shadow: 1px 1px 2px black, 2px 2px 25px blue;
+}
